@@ -1,7 +1,5 @@
 this is a test
 
 ## Lecture
-
-Noyes
-
+this is short
 ## pracs
